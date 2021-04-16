@@ -1,0 +1,10 @@
+[
+  { "name": "Kamura L. Bowgun II",
+    "produces_count": 1,
+    "requirements": [
+      { "type": "equipment"    , "name": "Kamura L. Bowgun I", "amount": 1, "units": "count" },
+      { "type": "material"     , "name": "Iron Ore", "amount": 1, "units": "count" },
+      { "type": "currency"     , "name": "Zenny", "amount": 200, "units": "z" }
+    ]
+  }
+]

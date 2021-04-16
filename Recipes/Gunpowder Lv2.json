@@ -1,0 +1,22 @@
+[
+  { "name": "Gunpowder Lv2",
+    "produces_count": 1,
+    "requirements": [
+      { "type": "material"    , "name": "Flamenut", "amount": 1, "units": "count" }
+    ]
+  },
+  { "name": "Gunpowder Lv2",
+    "produces_count": 20,
+    "requirements": [
+      { "type": "material"    , "name": "Combustuna", "amount": 1, "units": "count" },
+      { "type": "material"    , "name": "Fire Herb", "amount": 1, "units": "count" }
+    ]
+  },
+  { "name": "Gunpowder Lv2",
+    "produces_count": 40,
+    "requirements": [
+      { "type": "material"    , "name": "Big Combustuna", "amount": 1, "units": "count" },
+      { "type": "material"    , "name": "Fire Herb", "amount": 1, "units": "count" }
+    ]
+  }
+]

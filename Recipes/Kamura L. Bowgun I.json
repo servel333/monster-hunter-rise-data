@@ -1,0 +1,15 @@
+[
+  { "name": "Kamura L. Bowgun I",
+    "produces_count": 1,
+    "requirements": [
+      { "type": "material_type", "name": "Ore", "amount": 3, "units": "pts" },
+      { "type": "currency"     , "name": "Zenny", "amount": 300, "units": "z" }
+    ]
+  },
+  { "name": "Kamura L. Bowgun I",
+    "produces_count": 1,
+    "requirements": [
+      { "type": "currency"     , "name": "Zenny", "amount": 600, "units": "z" }
+    ]
+  }
+]
